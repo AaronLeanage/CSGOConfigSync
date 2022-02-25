@@ -1,5 +1,5 @@
 
-# Simple CS:GO Config Sync Utility - Windows Only
+# Simple CS:GO Config Sync Utility
 
 This tool will enable you to sync your config automatically between CS:GO Accounts. To start, type in the account ID  you want all accounts to sync with (your existing config) to `origAccID.txt`. To add a new account, simply run the utility. 
 
