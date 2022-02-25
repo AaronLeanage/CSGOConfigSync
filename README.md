@@ -4,7 +4,7 @@
 This tool will enable you to sync your config automatically between CS:GO Accounts. To start, type in the account ID  you want all accounts to sync with (your existing config) to `origAccID.txt`. To add a new account, simply run the utility. 
 
 
-## Requirements
+## Additional Notes
 NOTE: This utility assumes your Steam files (not your game library) are in the default location on an x64 machine (C:/Program Files (x86)/Steam).
 ㅤ
 
